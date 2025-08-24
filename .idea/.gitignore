@@ -1,0 +1,8 @@
+# .gitignore
+.idea/
+*.iml
+*.tfstate
+*.tfstate.backup
+.terraform/
+__pycache__/
+*.pyc
